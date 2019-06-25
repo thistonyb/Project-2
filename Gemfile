@@ -1,4 +1,5 @@
 source 'http://rubygems.org'
+#require 'em/pure_ruby'
 
 gem 'sinatra'
 gem 'activerecord', :require => 'active_record'
@@ -11,3 +12,4 @@ gem 'shotgun'
 gem 'pry'
 gem 'bcrypt'
 gem "tux"
+
